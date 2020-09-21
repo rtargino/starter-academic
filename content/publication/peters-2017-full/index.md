@@ -29,10 +29,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T15:48:36.547310Z'
+publishDate: '2020-09-21T18:28:28.933915Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'We revisit the gamma–gamma Bayesian chain-ladder (BCL) model for claims
+  reserving in non-life insurance. This claims reserving model is usually used in
+  an empirical Bayesian way using plug-in estimates for the variance parameters. The
+  advantage of this empirical Bayesian framework is that allows us for closed form
+  solutions. The main purpose of this paper is to develop the full Bayesian case also
+  considering prior distributions for the variance parameters and to study the resulting
+  sensitivities. '
 publication: '*Insurance: Mathematics and Economics*'
 doi: http://dx.doi.org/10.1016/j.insmatheco.2016.12.007
 ---

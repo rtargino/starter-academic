@@ -30,10 +30,18 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T15:48:35.757019Z'
+publishDate: '2020-09-21T18:28:28.079369Z'
 publication_types:
 - 2
-abstract: ''
+abstract: We propose a two stage procedure for the estimation of the parameters of
+  a fairly general, continuous-time stochastic volatility model. An important ingredient
+  of the proposed method is the Cuchiero–Teichmann volatility estimator, which is
+  based on Fourier transforms and provides a continuous-time estimate of the latent
+  process. This estimate is then used to construct an approximate likelihood for the
+  parameters of interest, whose restrictions are taken into account through prior
+  distributions. The procedure is shown to be highly successful for constructing the
+  posterior distribution of the parameters of a Heston model, while limited success
+  is achieved when applied to the highly parametrized exponential-Ornstein–Uhlenbeck.
 publication: '*Statistics & Probability Letters*'
 doi: https://doi.org/10.1016/j.spl.2019.108600
 ---

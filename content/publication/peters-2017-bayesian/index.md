@@ -30,10 +30,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T15:48:36.037742Z'
+publishDate: '2020-09-21T18:28:28.344936Z'
 publication_types:
 - 2
-abstract: ''
+abstract: The main objective of this work is to develop a detailed step-by-step guide
+  to the development and application of a new class of efficient Monte Carlo methods
+  to solve practically important problems faced by insurers under the new solvency
+  regulations. In particular, a novel Monte Carlo method to calculate capital allocations
+  for a general insurance company is developed, with a focus on coherent capital allocation
+  that is compliant with the Swiss Solvency Test. The data used is based on the balance
+  sheet of a representative stylized company. For each line of business in that company,
+  allocations are calculated for the one-year risk with dependencies based on correlations
+  given by the Swiss Solvency Test. Two different approaches for dealing with parameter
+  uncertainty are discussed and simulation algorithms based on (pseudo-marginal) Sequential
+  Monte Carlo algorithms are described and their efficiency is analysed.
 publication: '*Risks*'
 doi: https://doi.org/10.3390/risks5040053
 ---

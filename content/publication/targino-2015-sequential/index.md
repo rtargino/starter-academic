@@ -30,10 +30,17 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T15:48:37.062183Z'
+publishDate: '2020-09-21T18:28:29.800683Z'
 publication_types:
 - 2
-abstract: ''
+abstract: In this paper we assume a multivariate risk model has been developed for
+  a portfolio and its capital derived as a homogeneous risk measure. The Euler (or
+  gradient) principle, then, states that the capital to be allocated to each component
+  of the portfolio has to be calculated as an expectation conditional to a rare event,
+  which can be challenging to evaluate in practice. We exploit the copula-dependence
+  within the portfolio risks to design a Sequential Monte Carlo Samplers based estimate
+  to the marginal conditional expectations involved in the problem, showing its efficiency
+  through a series of computational examples.
 publication: '*Insurance: Mathematics and Economics*'
 doi: https://doi.org/10.1016/j.insmatheco.2015.01.007
 ---

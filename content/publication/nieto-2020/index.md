@@ -29,9 +29,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T15:48:34.494965Z'
+publishDate: '2020-09-21T18:28:27.781416Z'
 publication_types:
 - 2
-abstract: ''
+abstract: We propose a stochastic model for claims reserving that captures dependence
+  along development years within a single triangle. This dependence is of autoregressive
+  form of order  and is achieved through the use of latent variables. We carry out
+  bayesian inference on model parameters and borrow strength across several triangles,
+  coming from different lines of businesses or companies, through the use of hierarchical
+  priors.
 publication: '*Accepted to ASTIN Bulletin: The Journal of the IAA*'
 ---

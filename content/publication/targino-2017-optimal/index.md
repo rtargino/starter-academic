@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T18:28:28.628138Z'
+publishDate: '2020-09-21T20:11:57.971440Z'
 publication_types:
 - 2
 abstract: In this paper we demonstrate how to develop analytic closed form solutions

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T18:28:27.781416Z'
+publishDate: '2020-09-21T20:11:57.172485Z'
 publication_types:
 - 2
 abstract: We propose a stochastic model for claims reserving that captures dependence
@@ -39,4 +39,5 @@ abstract: We propose a stochastic model for claims reserving that captures depen
   coming from different lines of businesses or companies, through the use of hierarchical
   priors.
 publication: '*Accepted to ASTIN Bulletin: The Journal of the IAA*'
+url_pdf: https://arxiv.org/abs/1911.12405
 ---

@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T18:28:28.079369Z'
+publishDate: '2020-09-21T20:11:57.442336Z'
 publication_types:
 - 2
 abstract: We propose a two stage procedure for the estimation of the parameters of

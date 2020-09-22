@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T18:28:29.800683Z'
+publishDate: '2020-09-21T20:11:58.819985Z'
 publication_types:
 - 2
 abstract: In this paper we assume a multivariate risk model has been developed for

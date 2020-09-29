@@ -28,33 +28,6 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-  ## FGV (Courses taught in Portuguese)
 
-  Probability, BSc (2017, 2018)
-
-  Statistics, BSc (2017, 2018)
-
-  Statistics, MSc (2018, 2019)
-
-  Machine Learning, BSc (2019)
-
-  Probability, MSc (2019, 2020)
-
-  Machine Learning, MSc/PhD (2020)
-
-  Statistics and Econometrics, BSc (2020)
-
-  ## IMPA
-  Statistics and Econometrics (in Portuguese) (2017, 2018)
-
-  Statistics (in Portuguese) (2009) (Teaching Assistant)
-
-  ## UCL
-  ECON 3023: Economics of Financial Markets (2015/16) (Teaching Assistant)
-
-  ECON 1004: Introduction to Mathematics for Economists (2015/16) (Teaching Assistant)
-
-  STAT 6102: Introductory Statistical Methods (2013/14) (Workshop)
-
-  ## UFRJ
-  Time Series Analysis and Dynamic Models (in Portuguese) (2008, 2009) (Teaching Assistant)
+{{< display_table_csv "static/teaching.csv" >}}
+{{< /display_table_csv >}}

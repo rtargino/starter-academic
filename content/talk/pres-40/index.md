@@ -41,5 +41,5 @@ abstract: In this talk I will present the recent developments made by our group 
   we use Bayesian methods of particle filters to understand the importance of each
   word in the construction of an index.
 publication: '*School of Economics USP-RP*'
-url_pdf: ''
+url_pdf: https://www.dropbox.com/s/iz7w495qe5xknpz/slides_FOTP.pdf?dl=0
 ---

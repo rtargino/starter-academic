@@ -38,6 +38,6 @@ abstract: We propose a stochastic model for claims reserving that captures depen
   bayesian inference on model parameters and borrow strength across several triangles,
   coming from different lines of businesses or companies, through the use of hierarchical
   priors.
-publication: '*Accepted to ASTIN Bulletin: The Journal of the IAA*'
-url_pdf: https://arxiv.org/abs/1911.12405
+publication: '*ASTIN Bulletin: The Journal of the IAA*'
+url_pdf: http://doi.org/10.1017/asb.2020.36
 ---

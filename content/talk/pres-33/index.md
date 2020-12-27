@@ -7,7 +7,7 @@ summary: ''
 authors: []
 tags: []
 categories: []
-date: '2019-08-29'
+date: '2019-01-01'
 lastmod: 2020-09-28T12:34:41-03:00
 featured: false
 draft: false
@@ -26,10 +26,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T15:34:41.270804Z'
+publishDate: '2020-12-27T21:21:07.392871Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Workshop on Stochastic Simulation Methods in Statistics,  Rio de Janeiro,
   Brazil*'
+location: Workshop on Stochastic Simulation Methods in Statistics,  Rio de Janeiro,
+  Brazil
 ---

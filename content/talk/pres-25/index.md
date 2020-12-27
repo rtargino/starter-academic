@@ -27,11 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T15:34:42.316540Z'
+publishDate: '2020-12-27T21:21:09.641441Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*3rd International Congress on Actuarial Science and Quantitative Finance,  Manizales,
   Colombia.*'
 url_pdf: https://www.dropbox.com/s/zzq149agokfgqkj/RiskMargin.pdf?dl=0
+location: 3rd International Congress on Actuarial Science and Quantitative Finance,  Manizales,
+  Colombia.
 ---

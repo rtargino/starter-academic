@@ -26,10 +26,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T15:34:40.488896Z'
+publishDate: '2020-12-27T21:21:05.774497Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*3ª Semana da Engenharia Matemática e Matemática Aplicada da UFRJ*'
 url_pdf: https://youtu.be/ennu0cEwbLI?t=27639
+location: 3ª Semana da Engenharia Matemática e Matemática Aplicada da UFRJ
 ---

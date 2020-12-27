@@ -26,10 +26,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T15:34:41.663342Z'
+publishDate: '2020-12-27T21:21:08.191007Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*SIAM Conference on Financial Mathematics & Engineering,  Toronto, Canada.*'
 url_pdf: https://www.dropbox.com/s/u77t1n25hk3rqop/News.pdf?dl=0
+location: SIAM Conference on Financial Mathematics & Engineering,  Toronto, Canada.
 ---

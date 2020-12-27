@@ -27,10 +27,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T15:34:42.838393Z'
+publishDate: '2020-12-27T21:21:10.792537Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '* UCT - Mid-Challenge Workshop in Financial Mathematics,  Cape Town,
   South Africa.*'
+location: ' UCT - Mid-Challenge Workshop in Financial Mathematics,  Cape Town, South
+  Africa.'
 ---

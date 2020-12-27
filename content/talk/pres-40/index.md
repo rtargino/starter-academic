@@ -12,6 +12,8 @@ date: '2020-10-01'
 lastmod: 2020-09-28T12:34:40-03:00
 featured: false
 draft: false
+event: Departmental seminar, School of Economics USP-RP
+location: School of Economics USP-RP
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T15:34:40.331148Z'
+publishDate: '2020-12-27T21:21:05.532336Z'
 publication_types:
-- 2
+- '2'
 abstract: In this talk I will present the recent developments made by our group at
   FGV regarding the economic uncertainty index. In the first part, accessible to the
   general public, I will describe the economic uncertainty index and its Brazilian
@@ -40,6 +42,5 @@ abstract: In this talk I will present the recent developments made by our group 
   our advances in the direction of improving this and other word-based indexes, where
   we use Bayesian methods of particle filters to understand the importance of each
   word in the construction of an index.
-publication: '*School of Economics USP-RP*'
 url_pdf: https://www.dropbox.com/s/iz7w495qe5xknpz/slides_FOTP.pdf?dl=0
 ---

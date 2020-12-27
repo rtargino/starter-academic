@@ -7,7 +7,7 @@ summary: ''
 authors: []
 tags: []
 categories: []
-date: '2019-10-24'
+date: '2019-01-01'
 lastmod: 2020-09-28T12:34:40-03:00
 featured: false
 draft: false
@@ -26,10 +26,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T15:34:40.856130Z'
+publishDate: '2020-12-27T21:21:06.513843Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*École Polytechnique,  Paris, France*'
 url_pdf: https://www.dropbox.com/s/1fujxpi3it6r09j/EPU_particle_filters.pdf?dl=0
+location: École Polytechnique,  Paris, France
 ---

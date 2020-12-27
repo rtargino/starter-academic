@@ -7,7 +7,7 @@ summary: ''
 authors: []
 tags: []
 categories: []
-date: '2019-10-05'
+date: '2019-01-01'
 lastmod: 2020-09-28T12:34:41-03:00
 featured: false
 draft: false
@@ -26,9 +26,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T15:34:40.988776Z'
+publishDate: '2020-12-27T21:21:06.770675Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*4th International Workshop in Financial Econometrics*,  Maceió, Brazil*'
+location: 4th International Workshop in Financial Econometrics*,  Maceió, Brazil
 ---

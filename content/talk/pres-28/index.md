@@ -26,11 +26,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T15:34:41.910872Z'
+publishDate: '2020-12-27T21:21:08.831863Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*33 Foro Nacional de Estadística (FNE) y 13 Congreso Latinoamericano
   de Sociedades de Estadśtica (CLATSE),  Guadalajara, Mexico.*'
 url_pdf: https://www.dropbox.com/s/34rp3qqhnk8iitp/slides_FOTP.pdf?dl=0
+location: 33 Foro Nacional de Estadística (FNE) y 13 Congreso Latinoamericano de Sociedades
+  de Estadśtica (CLATSE),  Guadalajara, Mexico.
 ---

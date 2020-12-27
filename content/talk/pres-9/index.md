@@ -27,9 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T15:34:44.644887Z'
+publishDate: '2020-12-27T21:21:14.378091Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Monte Carlo and Quasi Monte Carlo (MCQMC),  Leuven, Belgium.*'
+location: Monte Carlo and Quasi Monte Carlo (MCQMC),  Leuven, Belgium.
 ---

@@ -30,8 +30,13 @@ subtitle = ""
     publication_type = "2"
     author = ""
     exclude_featured = false
+    
+  [content.archive]
+    enable = true
+    text = "See all publications"
+    link = "publication/#2"
   
-[design]
+  [design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
@@ -39,7 +44,7 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 4
   
-[design.background]
+  [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -59,10 +64,10 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+  [advanced]
+  # Custom CSS. 
+  css_style = ""
+   
+  # CSS class.
+  css_class = ""
 +++

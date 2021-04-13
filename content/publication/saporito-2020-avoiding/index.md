@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-02T00:13:40.159710Z'
+publishDate: '2021-04-13T15:05:12.179948Z'
 publication_types:
 - 3
 abstract: This paper is concerned with the process of risk allocation for a generic

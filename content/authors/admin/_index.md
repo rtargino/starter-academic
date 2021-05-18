@@ -72,8 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor (Lecturer) in Statistics at the School of Applied Mathematics (EMAp), at the Getulio Vargas Foundation (FGV).
+I am an Assistant Professor (Lecturer) in Statistics at the School of Applied Mathematics (EMAp), at the Getulio Vargas Foundation (FGV). Since 2021, I am an Associate Editor of the Brazilian Review of Finance (RBFin).
 
-From 2012 to 2016, I was a PhD candidate at the Department of Statistical Science, at the University College London (UCL). In 2014 I was also a recepient of the Australia Award Endeavour Research Fellowship.
+From 2012 to 2016, I was a PhD candidate at the Department of Statistical Science, at the University College London (UCL). In 2014 I was also a recipient of the Australia Award Endeavour Research Fellowship.
 
 After a completing a BSc in Applied Mathematics and a MSc in Statistics (both from Federal University of Rio de Janeiro, Brazil) I spent 2.5 years working at the financial industry in Brazil, first as a Credit Risk Modelling Analyst at Itaú-Unibanco Bank and then as a Market Risk Analyst at Credit-Suisse Hedging-Griffo. During the Masters I also collaborated on a IMPA / Petrobras research project, mainly focused on Real Options problems.

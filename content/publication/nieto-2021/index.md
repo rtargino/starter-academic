@@ -10,8 +10,8 @@ authors:
 - Rodrigo S Targino
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-09-21T12:48:35-03:00
+date: '2021-01-01'
+lastmod: 2021-06-16T17:49:46-03:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T20:11:57.172485Z'
+publishDate: '2021-06-16T20:49:45.828716Z'
 publication_types:
 - 2
 abstract: We propose a stochastic model for claims reserving that captures dependence
@@ -39,5 +39,5 @@ abstract: We propose a stochastic model for claims reserving that captures depen
   coming from different lines of businesses or companies, through the use of hierarchical
   priors.
 publication: '*ASTIN Bulletin: The Journal of the IAA*'
-url_pdf: http://doi.org/10.1017/asb.2020.36
+doi: http://doi.org/10.1017/asb.2020.36
 ---

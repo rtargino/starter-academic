@@ -26,7 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-18T13:35:08.044453Z'
+publishDate: '2021-06-16T20:40:15.522455Z'
 publication_types:
 - '2'
 abstract: Large pension plans face the difficulty of investing premiums in a financially
@@ -46,5 +46,5 @@ abstract: Large pension plans face the difficulty of investing premiums in a fin
   of settings such as data-driven statistical models, arbitrary dependency structures,
   and internal loss models.
 location: 3rd Insurance Data Science Conference
-url_pdf: ''
+url_pdf: https://www.dropbox.com/s/czqfnqsu9hlwwf9/20210616_short.pdf?dl=0
 ---

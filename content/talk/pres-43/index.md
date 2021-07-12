@@ -26,7 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-16T20:40:15.248921Z'
+publishDate: '2021-07-12T18:15:59.132648Z'
 publication_types:
 - '2'
 abstract: This talk is concerned with the process of risk allocation for a generic
@@ -38,5 +38,5 @@ abstract: This talk is concerned with the process of risk allocation for a gener
   representation has no perceivable bias and variance smaller than a standard estimator
   used in practice.
 location: '24th International Congress on Insurance: Mathematics and Economics '
-url_pdf: https://www.dropbox.com/s/czqfnqsu9hlwwf9/20210616_short.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/junsmax00j4nfoj/slides_Euler_Malliavin.pdf?dl=0
 ---

@@ -26,7 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-16T20:40:15.522455Z'
+publishDate: '2021-07-12T18:16:05.192964Z'
 publication_types:
 - '2'
 abstract: Large pension plans face the difficulty of investing premiums in a financially

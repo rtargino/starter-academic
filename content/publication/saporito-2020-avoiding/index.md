@@ -6,11 +6,12 @@ title: 'Avoiding zero probability events when computing Value at Risk contributi
 subtitle: ''
 summary: ''
 authors:
+- Takaaki Koike
 - Yuri F Saporito
 - Rodrigo S Targino
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2021-01-01'
 lastmod: 2020-09-21T17:11:56-03:00
 featured: false
 draft: false
@@ -29,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:05:12.179948Z'
+publishDate: '2021-09-06T16:20:51.071716Z'
 publication_types:
 - 3
 abstract: This paper is concerned with the process of risk allocation for a generic

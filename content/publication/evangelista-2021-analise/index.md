@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-13T15:05:11.924087Z'
+publishDate: '2021-09-06T16:20:50.733329Z'
 publication_types:
 - 3
 abstract: Entender a contribuição de ativos individuais ou de grupos de ativos para

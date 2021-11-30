@@ -26,7 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-12T18:16:05.463210Z'
+publishDate: '2021-11-30T16:55:59.203291Z'
 publication_types:
 - '2'
 abstract: In financial risk management, modelling dependency within a random vector

@@ -7,8 +7,8 @@ summary: ''
 authors: []
 tags: []
 categories: []
-date: '2021-06-01'
-lastmod: 2021-05-18T10:35:08-03:00
+date: '2021-11-01'
+lastmod: 2021-11-30T13:55:58-03:00
 featured: false
 draft: false
 
@@ -26,7 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-30T16:55:58.944652Z'
+publishDate: '2021-11-30T16:55:51.068685Z'
 publication_types:
 - '2'
 abstract: Large pension plans face the difficulty of investing premiums in a financially
@@ -45,6 +45,6 @@ abstract: Large pension plans face the difficulty of investing premiums in a fin
   the RBP is constructed using only sampled scenarios, making it applicable in a variety
   of settings such as data-driven statistical models, arbitrary dependency structures,
   and internal loss models.
-location: 3rd Insurance Data Science Conference
-url_pdf: https://www.dropbox.com/s/czqfnqsu9hlwwf9/20210616_short.pdf?dl=0
+location: Data Science and Quantitative Strategies reading group (Itaú-Unibanco)
+url_pdf: https://www.dropbox.com/s/5kzzbouwped2yaj/20211111.pdf?dl=0
 ---

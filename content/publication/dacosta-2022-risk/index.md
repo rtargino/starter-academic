@@ -11,11 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-<<<<<<< HEAD
-lastmod: 2022-07-19T09:45:08-03:00
-=======
-lastmod: 2022-02-19T12:30:10-03:00
->>>>>>> 3a0e003e2af02b30f696aaae2428baf23b324784
+lastmod: 2022-07-19T13:08:53-03:00
 featured: false
 draft: false
 
@@ -33,15 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-<<<<<<< HEAD
-publishDate: '2022-07-19T12:45:08.499133Z'
+publishDate: '2022-07-19T16:08:53.284248Z'
 publication_types:
 - '3'
-=======
-publishDate: '2022-02-19T15:30:09.900929Z'
-publication_types:
-- 3
->>>>>>> 3a0e003e2af02b30f696aaae2428baf23b324784
 abstract: Risk budgeting is a portfolio strategy where each asset contributes a prespecified
   amount to the aggregate risk of the portfolio. In this work, we propose a numerical
   framework that uses only simulations of returns for estimating risk budgeting portfolios.
@@ -51,11 +41,7 @@ abstract: Risk budgeting is a portfolio strategy where each asset contributes a 
   constructed using a especially designed Julia package, on real financial data and
   compare it to classical portfolio strategies.
 publication: ''
-<<<<<<< HEAD
 links:
 - name: URL
   url: https://ssrn.com/abstract=4038514
-=======
-url_pdf: https://ssrn.com/abstract=4038514
->>>>>>> 3a0e003e2af02b30f696aaae2428baf23b324784
 ---

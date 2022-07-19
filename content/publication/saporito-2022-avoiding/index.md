@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Avoiding zero probability events when computing Value at Risk contributions:
-  a Malliavin calculus approach'
+title: Avoiding zero probability events when computing Value at Risk contributions
 subtitle: ''
 summary: ''
 authors:
@@ -11,8 +10,8 @@ authors:
 - Rodrigo S Targino
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2020-09-21T17:11:56-03:00
+date: '2022-01-01'
+lastmod: 2022-07-19T09:43:52-03:00
 featured: false
 draft: false
 
@@ -30,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-06T16:20:51.071716Z'
+publishDate: '2022-07-19T12:43:52.466304Z'
 publication_types:
-- 3
+- '2'
 abstract: This paper is concerned with the process of risk allocation for a generic
   multivariate model when the risk measure is chosen as the Value-at-Risk (VaR). Making
   use of Malliavin calculus, we recast the traditional Euler contributions from an
@@ -41,6 +40,6 @@ abstract: This paper is concerned with the process of risk allocation for a gene
   have positive probability. For several different models we show empirically that
   the estimator using this novel representation has no perceivable bias and variance
   smaller than a standard estimator used in practice.
-publication: ''
-url_pdf: https://arxiv.org/abs/2004.13235
+publication: '*Insurance: Mathematics and Economics*'
+doi: https://doi.org/10.1016/j.insmatheco.2022.06.004
 ---

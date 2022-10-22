@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-06T16:20:51.389675Z'
+publishDate: '2022-10-22T19:35:27.144972Z'
 publication_types:
-- 3
+- '3'
 abstract: We provide empirical evidence that changes in the level of the freedom of
   the press have a substantial impact on important risk measures. Using data from
   the Freedom of the Press annual report to capture how freely the news media can
@@ -45,4 +45,7 @@ abstract: We provide empirical evidence that changes in the level of the freedom
   recessions relative to economic expansions.
 publication: ''
 url_pdf: https://dx.doi.org/10.2139/ssrn.3218754
+links:
+- name: URL
+  url: https://dx.doi.org/10.2139/ssrn.3218754
 ---

@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-06T16:20:50.733329Z'
+publishDate: '2022-10-22T19:35:26.387435Z'
 publication_types:
-- 3
+- '3'
 abstract: Entender a contribuição de ativos individuais ou de grupos de ativos para
   o risco total de um determinado portfólio é imprescindível para uma gestão financeira
   moderna. Nesse artigo, usando um modelo estocástico para retornos que combina volatilidade
@@ -43,4 +43,7 @@ abstract: Entender a contribuição de ativos individuais ou de grupos de ativos
   quando os ativos são tratados de forma individual.
 publication: ''
 url_pdf: https://papers.ssrn.com/abstract=3825680
+links:
+- name: URL
+  url: https://papers.ssrn.com/abstract=3825680
 ---

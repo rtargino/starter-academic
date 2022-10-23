@@ -7,7 +7,7 @@ summary: ''
 authors: []
 tags: []
 categories: []
-date: '2022-06-23'
+date: '2022-11-02'
 lastmod: 2021-05-18T10:35:08-03:00
 featured: false
 draft: false
@@ -39,6 +39,6 @@ abstract: In financial risk management, modelling dependency within a random vec
   of a transform Markov Chain Monte Carlo (MCMC) scheme developed to efficiently compute
   expectations conditional to rare events in which the unconditional distribution
   is given by an intractable factor copula.
-location: 'Department of Statistical Sciences, UCL,  London, UK'
-url_pdf: https://www.dropbox.com/s/11ga78rfh19xrl6/Slides-Targino.pdf?dl=0
+location: 'Department of Statistics and Applied Probability (PSTAT), UCSB'
+url_pdf: https://www.dropbox.com/s/603yuetkg9sodjr/Slides-Targino.pdf?dl=0
 ---

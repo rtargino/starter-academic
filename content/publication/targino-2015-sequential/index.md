@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T20:11:58.819985Z'
+publishDate: '2023-02-06T22:39:36.753768Z'
 publication_types:
-- 2
+- '2'
 abstract: In this paper we assume a multivariate risk model has been developed for
   a portfolio and its capital derived as a homogeneous risk measure. The Euler (or
   gradient) principle, then, states that the capital to be allocated to each component

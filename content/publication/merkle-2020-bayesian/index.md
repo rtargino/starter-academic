@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T20:11:57.442336Z'
+publishDate: '2023-02-06T22:39:34.487210Z'
 publication_types:
-- 2
+- '2'
 abstract: We propose a two stage procedure for the estimation of the parameters of
   a fairly general, continuous-time stochastic volatility model. An important ingredient
   of the proposed method is the Cuchiero–Teichmann volatility estimator, which is

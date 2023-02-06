@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T20:11:57.971440Z'
+publishDate: '2023-02-06T22:39:35.322879Z'
 publication_types:
-- 2
+- '2'
 abstract: In this paper we demonstrate how to develop analytic closed form solutions
   to optimal multiple stopping time problems arising in the setting in which the value
   function acts on a compound process that is modified by the actions taken at the

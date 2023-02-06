@@ -10,7 +10,7 @@ authors:
 - Rodrigo S. Targino
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2023-01-01'
 lastmod: 2022-10-22T12:37:56-07:00
 featured: false
 draft: false
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-22T19:37:56.291090Z'
+publishDate: '2023-02-06T22:39:31.869859Z'
 publication_types:
 - '2'
 abstract: 'In financial risk management, modelling dependency within a random vector
@@ -48,5 +48,5 @@ abstract: 'In financial risk management, modelling dependency within a random ve
 publication: '*Methodology and Computing in Applied Probability (in press)*'
 links:
 - name: URL
-  url: https://hal.archives-ouvertes.fr/hal-03334526
+  url: https://doi.org/10.1007/s11009-023-09983-4
 ---

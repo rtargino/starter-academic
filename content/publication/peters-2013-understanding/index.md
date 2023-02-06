@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T20:11:58.496483Z'
+publishDate: '2023-02-06T22:39:36.238936Z'
 publication_types:
-- 2
+- '2'
 abstract: 'We set the context for capital approximation within the framework of the
   Basel II / III regulatory capital accords. This is particularly topical as the Basel
   III accord is shortly due to take effect. In this regard, we provide a summary of

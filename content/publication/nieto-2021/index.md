@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-16T20:49:45.828716Z'
+publishDate: '2023-02-06T22:39:34.047149Z'
 publication_types:
-- 2
+- '2'
 abstract: We propose a stochastic model for claims reserving that captures dependence
   along development years within a single triangle. This dependence is of autoregressive
   form of order  and is achieved through the use of latent variables. We carry out

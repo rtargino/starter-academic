@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-21T20:11:57.704882Z'
+publishDate: '2023-02-06T22:39:34.903111Z'
 publication_types:
-- 2
+- '2'
 abstract: The main objective of this work is to develop a detailed step-by-step guide
   to the development and application of a new class of efficient Monte Carlo methods
   to solve practically important problems faced by insurers under the new solvency

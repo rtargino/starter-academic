@@ -45,7 +45,7 @@ abstract: 'In financial risk management, modelling dependency within a random ve
   Lyapunov function of the MCMC sampler. We present numerical experiments confirming
   the convergence rates and also revisit a real data analysis from financial risk
   management.'
-publication: '*Methodology and Computing in Applied Probability (in press)*'
+publication: '*Methodology and Computing in Applied Probability*'
 links:
 - name: URL
   url: https://doi.org/10.1007/s11009-023-09983-4

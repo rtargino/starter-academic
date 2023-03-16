@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Risk Budgeting Portfolios from Simulations
+title: Transform MCMC schemes for sampling intractable factor copula models
 subtitle: ''
 summary: ''
 authors: []
 tags: []
 categories: []
-date: '2023-03-16'
+date: '2023-04-21'
 lastmod: 2021-05-18T10:35:08-03:00
 featured: false
 draft: false
@@ -29,7 +29,16 @@ projects: []
 publishDate: '2021-11-30T16:55:59.203291Z'
 publication_types:
 - '2'
-abstract: Risk budgeting is a portfolio strategy where each asset contributes a prespecified amount to the aggregate risk of the portfolio. In this work, we propose a numerical framework that uses only simulations of returns for estimating risk budgeting portfolios. Specifically, we provide a Sample Average Approximation (SAA) algorithm with cutting planes, and a Stochastic Gradient Decent algorithm, tailored to the risk budgeting portfolio for the Expected Shortfall. We illustrate different risk budgeting portfolios, constructed using a especially designed Julia package, on real financial data and compare it to classical portfolio strategies.
-location: 'Western Conference on Mathematical Finance'
-url_pdf: https://www.dropbox.com/s/dxk2ni9n8q43tlg/risk_parity.pdf?dl=0
+abstract: In financial risk management, modelling dependency within a random vector
+  is crucial and a standard approach is the use of a copula model. A flexible family
+  of copulas, known as the factor copulas, is formed by the copulas extracted from
+  factor models. Sampling from a factor copula is equivalent to sampling from the
+  factor model and applying the cumulative distribution function (c.d.f.) to each
+  component of the sample. Nonetheless, in many models of interest the c.d.f.'s are
+  not explicitly known. In this talk I'll present theoretical and numerical properties
+  of a transform Markov Chain Monte Carlo (MCMC) scheme developed to efficiently compute
+  expectations conditional to rare events in which the unconditional distribution
+  is given by an intractable factor copula.
+location: 'School of Mathematical and Statistical Sciences, ASU'
+url_pdf: https://www.dropbox.com/s/9nzdzxbplwml8sb/Slides-Targino.pdf?dl=0
 ---

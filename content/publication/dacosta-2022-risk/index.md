@@ -10,7 +10,7 @@ authors:
 - Rodrigo S. Targino
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2023-01-01'
 lastmod: 2022-07-19T13:08:53-03:00
 featured: false
 draft: false
@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2023-05-20T04:35:27.983783Z'
 publication_types:
-- '3'
+- '2'
 abstract: Risk budgeting is a portfolio strategy where each asset contributes a prespecified
   amount to the aggregate risk of the portfolio. In this work, we propose a numerical
   framework that uses only simulations of returns for estimating risk budgeting portfolios.
@@ -40,8 +40,6 @@ abstract: Risk budgeting is a portfolio strategy where each asset contributes a 
   portfolio for the Expected Shortfall. We illustrate different risk budgeting portfolios,
   constructed using a especially designed Julia package, on real financial data and
   compare it to classical portfolio strategies.
-publication: ''
-links:
-- name: URL
-  url: https://ssrn.com/abstract=4038514
+publication: '*European Journal of Operational Research*'
+doi: https://doi.org/10.1016/j.ejor.2023.06.003
 ---

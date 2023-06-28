@@ -36,20 +36,20 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Assistant Professor"
-  company = "Getulio Vargas Foundation (FGV)"
-  company_url = "https://emap.fgv.br/"
-  location = "Rio de Janeiro, RJ, Brazil"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = ""
-
-[[experience]]
   title = "Visiting Associate Professor"
   company = "University of California, Santa Barbara (UCSB)"
   company_url = "https://www.pstat.ucsb.edu/"
   location = "Santa Barbara, CA, USA"
   date_start = "2022-09-01"
+  date_end = "2023-06-01"
+  description = ""
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "Getulio Vargas Foundation (FGV)"
+  company_url = "https://emap.fgv.br/"
+  location = "Rio de Janeiro, RJ, Brazil"
+  date_start = "2017-01-01"
   date_end = ""
   description = ""
 +++

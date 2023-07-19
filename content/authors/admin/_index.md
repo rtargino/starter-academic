@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor (Lecturer) in Statistics at the School of Applied Mathematics (EMAp), at the Getulio Vargas Foundation (FGV). Since 2021, I am an Associate Editor of the Brazilian Review of Finance (RBFin). For the academic year 2022/23 I am on a sabbatical from FGV EMAp, working as a Visiting Associate Professor at the Department of Statistics and Applied Probability (PSTAT) at the University of California, Santa Barbara (UCSB).
+I am an Assistant Professor in Statistics at the School of Applied Mathematics (EMAp), at the Getulio Vargas Foundation (FGV). Since 2021, I am an Associate Editor of the Brazilian Review of Finance (RBFin). For the academic year 2022/23 I was on a sabbatical from FGV EMAp, working as a Visiting Associate Professor at the Department of Statistics and Applied Probability (PSTAT) at the University of California, Santa Barbara (UCSB).
 
 From 2012 to 2016, I was a PhD candidate at the Department of Statistical Science, at the University College London (UCL). In 2014 I was also a recipient of the Australia Award Endeavour Research Fellowship.
 
